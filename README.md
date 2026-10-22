@@ -28,7 +28,7 @@
 
 ## 🚀 Getting Started
 
-1. **Download:** Grab the latest executable release from the [Releases]https://github.com/nnssti/Voxora-Studio/releases/tag/1.1.0) page.
+1. **Download:** Grab the latest executable release from the [Releases](https://github.com/nnssti/Voxora-Studio/releases) page.
 2. **Import Video:** Drag and drop your video file (`MP4`, `MKV`, `MOV`, `AVI`, `WebM`, etc.).
 3. **Configure Settings:** Choose your preferred translation and voice engines in the **Settings** menu.
 4. **Generate:** Click to process translation, styling, and video dubbing!
